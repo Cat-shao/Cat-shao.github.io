@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cat-shao的博客</title>
+  
+  <subtitle>一个爱好编程的学生</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-19T09:02:16.693Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Cat-shao</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何修改钉钉来消息的音效</title>
+    <link href="http://yoursite.com/2020/03/19/%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%E9%92%89%E9%92%89%E6%9D%A5%E6%B6%88%E6%81%AF%E7%9A%84%E9%9F%B3%E6%95%88/"/>
+    <id>http://yoursite.com/2020/03/19/%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%E9%92%89%E9%92%89%E6%9D%A5%E6%B6%88%E6%81%AF%E7%9A%84%E9%9F%B3%E6%95%88/</id>
+    <published>2020-03-19T00:39:17.000Z</published>
+    <updated>2020-03-19T09:02:16.693Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;iframe src=&quot;//player.bilibili.com/player.html?aid=93619992&amp;cid=159839662&amp;page=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="video" scheme="http://yoursite.com/tags/video/"/>
+    
+      <category term="哔哩哔哩" scheme="http://yoursite.com/tags/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9/"/>
+    
+  </entry>
+  
+</feed>
