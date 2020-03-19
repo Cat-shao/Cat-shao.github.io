@@ -45,7 +45,7 @@
       <h1><a href="/">Cat-shao&#39;s blog</a></h1>
       <div id="subtitle-box">
         
-          <span id="subtitle">一个爱好编程的学生</span>
+        <span id="subtitle"></span>
         
       </div>
       <div>
@@ -59,6 +59,8 @@
 </section>
 
 
+
+<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11/lib/typed.min.js"></script>
 
 <div id="main">
   <section class="outer">
@@ -276,6 +278,21 @@
 
 <script src="/js/lazyload.min.js"></script>
 
+
+<script>
+  try {
+    var typed = new Typed("#subtitle", {
+      strings: ['一个爱好编程的学生', '擅长是用Python', ''],
+      startDelay: 0,
+      typeSpeed: 200,
+      loop: true,
+      backSpeed: 100,
+      showCursor: true
+    });
+  } catch (err) {
+  }
+
+</script>
 
 
 
